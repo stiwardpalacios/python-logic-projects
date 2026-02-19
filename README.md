@@ -1,30 +1,23 @@
 # Python Logic Projects
 
-This repository contains Python projects focused on logic building, control flow, and problem solving.
+This repository contains beginner-level Python projects focused on:
 
-## 📌 Project 1: Number Guessing Game
-
-A simple Python game where the user tries to guess a randomly generated number between 1 and 100.
-
-### 🔹 Features
-- Random number generation
-- User input handling
-- Exception handling (invalid inputs)
-- Attempt counter
-- Loop control and conditionals
-
-### 🛠 Technologies Used
-- Python 3
-- Random module
-
-### 🚀 What I Learned
-- Control flow (if/elif/else)
-- Loops (while)
+- Control flow
+- Loops
 - Functions
-- Error handling with try/except
-- Clean code structure
+- Error handling
+- Problem solving
 
----
+## Projects
 
-👨‍💻 Author: Stiward Palacios  
-Computer Science Student | Learning Backend Development
+### 1. Number Guessing Game
+A console-based game where the user tries to guess a randomly generated number between 1 and 100.
+
+**Concepts used:**
+- while loops
+- conditionals
+- try/except
+- random module
+- input handling
+
+More projects coming soon 
